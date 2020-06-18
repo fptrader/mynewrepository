@@ -23,4 +23,4 @@ one more
 add a line on my branch
 add another line on my branch
 
-
+the black dots are increasing - and the black lline showing my commits on my branch
