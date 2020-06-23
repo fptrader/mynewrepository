@@ -31,3 +31,5 @@ Add a line on branch montira_21_06 etc
 
 
 Can I merge this line
+
+I must request reveiw and should not be able to merge cos I protected the master branch form within github
