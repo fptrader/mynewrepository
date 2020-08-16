@@ -13,5 +13,5 @@ this line is only on branch
 
 A line added on the master
 
-line on testBranch1
+change same line to crate conflict
 
